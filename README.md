@@ -58,3 +58,4 @@ services:
 - [ ] Use non-root user
 - [ ] Think about integrating go-cron health check for backup health
 - [ ] Allow backup retention period (currently just sync the last one)
+- [ ] Do the same for postgres-restore-s3 and make more safe
